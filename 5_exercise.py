@@ -28,6 +28,7 @@ def calculate(number):
             factors.append(i)
     if number > 1:
         factors.append(number)
+
     greatest = max(factors)
     return greatest
 
