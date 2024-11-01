@@ -7,6 +7,8 @@ the function returns True, otherwise False."""
 
 
 def is_prime(number):
+    if number < 2:
+        return False
     if number % 2 == 0:
         return number == 2
     i = 3
