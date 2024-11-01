@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c24a0dd-a2c3-45f9-b61d-93927458a131" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/15_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_exercise.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,6 +40,7 @@
     "Python.13_exercise.executor": "Run",
     "Python.14_exercise.executor": "Run",
     "Python.15_exercise.executor": "Run",
+    "Python.16_exercise.executor": "Run",
     "Python.1_exercise.executor": "Run",
     "Python.2_exercise.executor": "Run",
     "Python.3_exercise.executor": "Run",
