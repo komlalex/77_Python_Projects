@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c24a0dd-a2c3-45f9-b61d-93927458a131" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/27_exercise.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hashtag_input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28_exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/binary.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/26_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/26_exercise.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +54,7 @@
     "Python.24_exercise.executor": "Run",
     "Python.26_exercise.executor": "Run",
     "Python.27_exercise.executor": "Run",
+    "Python.28_exercise.executor": "Run",
     "Python.2_exercise.executor": "Run",
     "Python.3_exercise.executor": "Run",
     "Python.4_exercise.executor": "Run",
