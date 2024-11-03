@@ -1,0 +1,33 @@
+[{
+  "id": 1,
+  "first_name": "Alex",
+  "last_name": "Komla",
+  "email": "test@gmail.com",
+  "gender": "male",
+  "is_active": true
+},
+{
+  "id": 2,
+  "first_name": "Cindy",
+  "last_name": "Fame",
+  "email": "test@gmail.com",
+  "gender": "Female",
+  "is_active": false
+},
+  {
+  "id": 3,
+  "first_name": "James",
+  "last_name": "Fabain",
+  "email": "test@gmail.com",
+  "gender": "male",
+  "is_active": true
+},
+  {
+  "id": 4,
+  "first_name": "John",
+  "last_name": "Doe",
+  "email": "jd@gmail.com",
+  "gender": "neutral",
+  "is_active": false
+}
+  ]

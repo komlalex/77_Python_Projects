@@ -19,6 +19,8 @@ Implement a function called binary_to_int( ) that reads the included
 binary.txt file and converts the given numbers to decimal system. Return the
 numbers as a list.
 """
+
+
 def binary_to_int():
     with open("binary.txt", "r") as fh:
         content = fh.read()
