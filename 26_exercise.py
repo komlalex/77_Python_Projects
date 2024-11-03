@@ -19,7 +19,7 @@ console.
 def clean_hashtags():
     try:
 
-        fh = open("hashtags.txt")
+        fh = open("hashtags.txt", "r")
         content = fh.read()
         hashtags = content.split()
         short_hashtags = [hashtag for hashtag in hashtags if len(hashtag) <= 5]
